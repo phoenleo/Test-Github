@@ -1,3 +1,6 @@
 ini fitur A yang dimasukkan kedalam sistem
 
 Ini Update yang dilakukan oleh master programmer
+
+Update Fitur A oleh programmer fitur A
+
